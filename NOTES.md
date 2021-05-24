@@ -7,12 +7,12 @@
   - skirta aprasyti kas, ka ir kodel daro
   - iterpti nuoroda i daroma dizaina
   - iterpti nuoroda, kur tas musu kodas gali buti pamatytas
-- [x] atlikti dizaino analize
-- [x] surasyti HTML
-- [x] issikirpti nuotraukas ir jas panaudoti
+- [ ] atlikti dizaino analize
+- [ ] surasyti HTML
+- [ ] issikirpti nuotraukas ir jas panaudoti
   - panaudoti reliatyvu kelia
   - png formatas, del permatomumo savybes
-- [x] aprasome stiliu:
+- [ ] aprasome stiliu:
   - turinys turi buti centre
   - pagrindinis plotis turi buti fiksuotas
   - stiliu (CSS) atskirti nuo HTML
