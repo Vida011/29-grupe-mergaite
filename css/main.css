@@ -1,17 +1,20 @@
 body {
+    background-color: #F8F8F8;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
 
 header {
     display: Inline-block;
     width: 800px;
     margin-left: calc(50% - 400px);
-    background-color:red;
 }
 
-img {
+header > img {
+    float: left;
 }
 
 nav {
+    float: right;
 }
 
 a {
@@ -20,11 +23,16 @@ a {
 main {
     display: Inline-block;
     width: 800px;
-    margin-left: calc(50% - 400px);
-    background-color:yellow;
+    margin-left: calc(100% - 800px) / 2);
+    background-color: yellow;
 }
 
 div {
+       width: 40%;
+       float: left;
+       margin-left: 2,5%;
+       margin-right: 2,5%;
+       background-color: blue;
 }
 
 h1 {
@@ -33,5 +41,10 @@ h1 {
 p {
 }
 
-img {
+main > img {
+    width: 50%;
+    flood: left;
+    margin-left: 2,5%;
+    margin-right: 2,5%;
+    background-color: red;
 }
